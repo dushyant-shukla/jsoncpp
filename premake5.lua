@@ -25,7 +25,7 @@ project "jsoncpp"
 		"src/lib_json/json_writer.cpp"
 	}
 
-		includedirs
+	includedirs
 	{
 		"include"
 	}
